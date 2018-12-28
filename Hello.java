@@ -14,6 +14,6 @@ public class Hello {
 
 	public static void main(String[] args) {
 		
-		System.out.print("Hello, World!"); // outputs 'Hello, World!'
+		System.out.print("Hello, GitHub community!");
 	}
 }

@@ -1,2 +1,2 @@
-# My first program using Python
-print("Hello, World!") # Output 'Hello, World!'
+# A basic hello world program
+print("Hello, GitHub community!")

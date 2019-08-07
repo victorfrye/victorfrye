@@ -1,13 +1,11 @@
 using System;
 
-/// <summary>
-/// This is my very first program ever, written in C#
-/// </summary>
+// My first program using C#
 
 public class Hello
 {
 	public static void main(String[] args)
 	{
-		Console.Write("Hello, GitHub community!");
+		Console.WriteLine("Hello, GitHub community!");
 	}
 }

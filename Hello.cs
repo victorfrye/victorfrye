@@ -1,7 +1,7 @@
 // My first program using C#
 using System;
 
-public class Hello
+public class HelloWorld
 {
 	public static void main(String[] args)
 	{

@@ -1,18 +1,7 @@
-/**
- * My first program using Java.
- * <p>
- * This is my first program using the java programming language. It is a simple,
- * hello world program.
- * </p>
- * 
- * @author Victor W. Frye <iam@victorfrye.me>
- * @version 1.0
- * @since 1.0
- */
+// My first program using Java
 
 public class Hello {
 	public static void main(String[] args) {
-		
-		System.out.print("Hello, GitHub community!");
+		System.out.println("Hello, GitHub community!");
 	}
 }

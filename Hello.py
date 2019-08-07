@@ -1,2 +1,2 @@
-# A basic hello world program using Python
+# My first program using Python
 print("Hello, GitHub community!")

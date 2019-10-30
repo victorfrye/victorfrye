@@ -1,3 +1,4 @@
 #!/bin/bash
-# My first script using BASH
+# A simple hello world program in shell
+
 echo "Hello, GitHub community!"

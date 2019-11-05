@@ -1,4 +1,4 @@
-// My first program using Java
+// A simple hello world program in Java
 
 public class HelloWorld {
 	public static void main(String[] args) {

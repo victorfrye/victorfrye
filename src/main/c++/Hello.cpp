@@ -1,5 +1,7 @@
-// My first program using C++
-#include <iostream>
+// A simple hello world program in C++
+
+#include<iostream>
+
 using namespace std;
 
 int main()

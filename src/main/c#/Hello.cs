@@ -1,4 +1,5 @@
-// My first program using C#
+// A simple hello world program in C#
+
 using System;
 
 public class HelloWorld

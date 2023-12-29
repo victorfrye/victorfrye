@@ -1,6 +1,6 @@
 ### Hello from Grand Rapids! 👋
 
-#### I'm Vic, your friendly neighborhood technologist.
+#### I'm Vic, your friendly neighborhood technologist
 
 - 🌎 I'm based in <strong>Grand Rapids</strong>, Michigan
 - 💼 I'm currently employed professionally as a software engineering consultant
@@ -66,8 +66,8 @@ I have enjoyed recreating hello world programs in different languages and framew
 
 #### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/victorfrye"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
+<p>
+    <a href="https://www.buymeacoffee.com/victorfrye">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
+    </a>
+</p>

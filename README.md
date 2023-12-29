@@ -12,7 +12,6 @@
 - 📎 I'm the <strong>number one Clippy fan</strong> and here to help
 - 🎮 I'm an avid <strong>gamer</strong> and enjoy playing <strong>RPGs</strong> and <strong>indies</strong>
 - 📫 Get in touch with me on [Threads](https://threads.net/@thevictorfryeadventure), [LinkedIn](https://linkedin.com/in/victorfrye), or send an [email](mailto:victorfrye@outlook.com)
-- 😄 Pronouns: he/him
 
 #### Languages and Tools
 
@@ -22,6 +21,9 @@
     </a>
     <a href="https://developer.mozilla.org/en-us/docs/web/javascript" target="_blank" rel="noreferrer">
         <img src="./images/javascript.svg" width="36" height="36" alt="JavaScript" />
+    </a>
+    <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
+        <img src="./images/powershell.svg" width="36" height="36" alt="PowerShell" />
     </a>
     <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
         <img src="./images/dotnet.svg" width="36" height="36" alt=".NET" />
@@ -34,9 +36,6 @@
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="./images/git.svg" width="36" height="36" alt="Git" />
-    </a>
-    <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
-        <img src="./images/powershell.svg" width="36" height="36" alt="PowerShell" />
     </a>
     <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
         <img src="./images/terraform.svg" width="36" height="36" alt="Terraform" />

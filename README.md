@@ -4,7 +4,7 @@
 
 - 🌎 I'm based in <strong>Grand Rapids</strong>, Michigan
 - 💼 I'm currently employed professionally as a software engineering consultant
-- ⚡ I’m currently working on a personal website utilizing .NET 8 Blazor, Azure cloud services, and GitHub Actions
+- ⚡ I’m currently working on two fun projects: (1) a personal website and (2) a fun surprise project
 - 🌱 I’m currently learning web development, devops automation, and cloud infrastructure
 - ❤️‍🔥 I'm passionate about <strong>digital transformation</strong>, the <strong>developer experience</strong>, and solutions that help people <strong>achieve more</strong>
 - 📘 I'm actively pursuing cloud certifications for Microsoft Azure
@@ -63,3 +63,11 @@ public class HelloWorld
 ```
 
 I have enjoyed recreating hello world programs in different languages and frameworks for myself and as a demonstration of languages I have familiarity with. Samples of these programs can be found [here](./samples/)
+
+#### Support Me
+
+<ul style="list-style-type: none; margin: 0;">
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/victorfrye"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
+</ul>

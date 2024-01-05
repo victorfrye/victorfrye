@@ -63,11 +63,3 @@ public class HelloWorld
 ```
 
 I have enjoyed recreating hello world programs in different languages and frameworks for myself and as a demonstration of languages I have familiarity with. Samples of these programs can be found [here](./samples/)
-
-#### Support Me
-
-<p>
-    <a href="https://www.buymeacoffee.com/victorfrye">
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
-    </a>
-</p>

@@ -2,15 +2,15 @@
 
 #### I'm Vic, your friendly neighborhood technologist
 
-- 🌎 I'm based in <strong>Grand Rapids</strong>, Michigan
-- 💼 I'm currently employed professionally as a software engineering consultant
+- 🌎 I'm based in **Grand Rapids**, Michigan
+- 💼 I'm currently employed professionally as a senior software engineer
 - ⚡ I’m currently working on two fun projects: (1) a personal website and (2) a fun surprise project
 - 🌱 I’m currently learning web development, devops automation, and cloud infrastructure
-- ❤️‍🔥 I'm passionate about <strong>digital transformation</strong>, the <strong>developer experience</strong>, and solutions that help people <strong>achieve more</strong>
+- ❤️‍🔥 I'm passionate about **digital transformation**, the **developer experience**, and solutions that help people **achieve more**
 - 📘 I'm actively pursuing cloud certifications for Microsoft Azure
-- ☕ I'm <strong>powered by coffee</strong> and an enthusiast of home and local brews
-- 📎 I'm the <strong>number one Clippy fan</strong> and here to help
-- 🎮 I'm an avid <strong>gamer</strong> and enjoy playing <strong>RPGs</strong> and <strong>indies</strong>
+- ☕ I'm **powered by coffee** and an enthusiast of home and local brews
+- 📎 I'm the **number one Clippy fan** and here to help
+- 🎮 I'm an avid **gamer** and enjoy playing **RPGs** and **indies**
 - 📫 Get in touch with me on [Threads](https://threads.net/@thevictorfryeadventure), [LinkedIn](https://linkedin.com/in/victorfrye), or send an [email](mailto:victorfrye@outlook.com)
 
 #### Languages and Tools
@@ -21,6 +21,9 @@
     </a>
     <a href="https://developer.mozilla.org/en-us/docs/web/javascript" target="_blank" rel="noreferrer">
         <img src="./images/javascript.svg" width="36" height="36" alt="JavaScript" />
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="./images/typescript.svg" width="36" height="36" alt="TypeScript" />
     </a>
     <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
         <img src="./images/powershell.svg" width="36" height="36" alt="PowerShell" />
@@ -34,11 +37,17 @@
     <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
         <img src="./images/nodejs.svg" width="36" height="36" alt="Node.js" />
     </a>
+    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+        <img src="./images/bootstrap.svg" width="36" height="36" alt="Bootstrap" />
+    </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="./images/git.svg" width="36" height="36" alt="Git" />
     </a>
     <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
         <img src="./images/terraform.svg" width="36" height="36" alt="Terraform" />
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="./images/docker.svg" width="36" height="36" alt="Docker" />
     </a>
     <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer">
         <img src="./images/azure.svg" width="36" height="36" alt="Azure" />

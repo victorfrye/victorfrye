@@ -4,7 +4,7 @@
 
 - 🌎 I'm based in **Grand Rapids**, Michigan
 - 💼 I'm currently employed professionally as a senior software engineer
-- ⚡ I’m currently working on two fun projects: (1) a personal website and (2) a fun surprise project
+- ⚡ I recently launched two fun projects: (1) [VictorFrye.COM](https://victorfrye.com) and (2) [Microsoft Graveyard](https://microsoftgraveyard.com)
 - 🌱 I’m currently learning web development, devops automation, and cloud infrastructure
 - ❤️‍🔥 I'm passionate about **digital transformation**, the **developer experience**, and solutions that help people **achieve more**
 - 📘 I'm actively pursuing cloud certifications for Microsoft Azure

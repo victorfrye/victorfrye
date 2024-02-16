@@ -1,6 +1,6 @@
 ### Hello from Grand Rapids! 👋
 
-#### I'm Vic, your friendly neighborhood technologist
+#### I'm Vic, your friendly neighborhood developer
 
 - 🌎 I'm based in **Grand Rapids**, Michigan
 - 💼 I'm currently employed professionally as a senior software engineer

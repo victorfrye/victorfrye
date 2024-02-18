@@ -40,11 +40,8 @@
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
         <img src="./images/nextjs.svg" width="36" height="36" alt="Next.js" />
     </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
-        <img src="./images/tailwindcss.svg" width="36" height="36" alt="Tailwind CSS" />
-    </a>
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
-        <img src="./images/bootstrap.svg" width="36" height="36" alt="Bootstrap" />
+    <a href="https://webpack.js.org/" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
+        <img src="./images/webpack.svg" width="36" height="36" alt="Webpack" />
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
         <img src="./images/git.svg" width="36" height="36" alt="Git" />
@@ -57,6 +54,9 @@
     </a>
     <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
         <img src="./images/azure.svg" width="36" height="36" alt="Azure" />
+    </a>
+    <a href="https://github.com/" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
+        <img src="./images/github.svg" width="36" height="36" alt="GitHub" />
     </a>
 </p>
 

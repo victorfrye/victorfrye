@@ -43,9 +43,6 @@
     <a href="https://webpack.js.org/" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
         <img src="./images/webpack.svg" width="36" height="36" alt="Webpack" />
     </a>
-    <a href="https://react.fluentui.dev/" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
-        <img src="./images/fluentui.svg" width="36" height="36" alt="Fluent UI" />
-    </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
         <img src="./images/git.svg" width="36" height="36" alt="Git" />
     </a>

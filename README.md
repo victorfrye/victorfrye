@@ -28,6 +28,9 @@
     <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
         <img src="./images/powershell.svg" width="36" height="36" alt="PowerShell" />
     </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
+        <img src="./images/gnubash.svg" width="36" height="36" alt="GNU Bash" />
+    </a>
     <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
         <img src="./images/dotnet.svg" width="36" height="36" alt=".NET" />
     </a>

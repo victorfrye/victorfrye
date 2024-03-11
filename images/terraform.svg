@@ -1,15 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" >
-    <linearGradient id="T3ZTXt99ftm8xnJTaV_aia" x1="36.403" x2="42.307" y1="15.905" y2="26.352"
-        gradientUnits="userSpaceOnUse">
-        <stop offset="0" stop-color="#403eb4" />
-        <stop offset="1" stop-color="#4527a0" />
-    </linearGradient>
-    <polygon fill="url(#T3ZTXt99ftm8xnJTaV_aia)" points="33,31 45,24 45,10 33,17" />
-    <linearGradient id="T3ZTXt99ftm8xnJTaV_aib" x1="17.418" x2="26.29" y1="14.896" y2="39.335"
-        gradientUnits="userSpaceOnUse">
-        <stop offset="0" stop-color="#6042ea" />
-        <stop offset=".994" stop-color="#5040c6" />
-    </linearGradient>
-    <path fill="url(#T3ZTXt99ftm8xnJTaV_aib)"
-        d="M17,23L5,16V2l12,7V23z M31,17l-12-7v14l12,7V17z M31,33l-12-7v14l12,7V33z" />
+<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+    <title>Terraform</title>
+    <path fill="#844FBA"
+        d="M1.44 0v7.575l6.561 3.79V3.787zm21.12 4.227l-6.561 3.791v7.574l6.56-3.787zM8.72 4.23v7.575l6.561 3.787V8.018zm0 8.405v7.575L15.28 24v-7.578z" />
 </svg>

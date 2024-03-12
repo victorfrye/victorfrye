@@ -41,7 +41,11 @@
         <img src="./images/reactjs.svg" width="36" height="36" alt="React.js" />
     </a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
-        <img src="./images/nextjs.svg" width="36" height="36" alt="Next.js" />
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./images/nextjs.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="./images/nextjs_dark.svg" />
+            <img src="./images/nextjs.svg" width="36" height="36" alt="Next.js" />
+        </picture>
     </a>
     <a href="https://webpack.js.org/" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
         <img src="./images/webpack.svg" width="36" height="36" alt="Webpack" />
@@ -58,8 +62,12 @@
     <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
         <img src="./images/azure.svg" width="36" height="36" alt="Azure" />
     </a>
-    <a href="https://github.com/" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
-        <img src="./images/github.svg" width="36" height="36" alt="GitHub" />
+    <a href="https://github.com/victorfrye" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./images/github.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="./images/github_dark.svg" />
+            <img src="./images/github.svg" width="36" height="36" alt="GitHub" />
+        </picture>
     </a>
 </p>
 

@@ -61,6 +61,9 @@
     <a href="https://github.com/" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
         <img src="./images/github.svg" width="36" height="36" alt="GitHub" />
     </a>
+    <a href="https://www.microsoft.com/en-us/windows/" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
+        <img src="./images/windows.svg" width="36" height="36" alt="Windows" />
+    </a>
 </p>
 
 #### First Program

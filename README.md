@@ -3,11 +3,11 @@
 #### I'm Vic, your friendly neighborhood developer
 
 - 🌎 I'm based in **Grand Rapids**, Michigan
-- 💼 I'm currently employed professionally as a senior software engineer
-- ⚡ I recently launched two fun projects: (1) [VictorFrye.com](https://victorfrye.com) and (2) [Microsoft Graveyard](https://microsoftgraveyard.com)
-- 🌱 I’m currently learning web development, devops automation, and cloud infrastructure
+- 💼 I'm currently employed professionally as a **senior software engineer** at [Leading EDJE](https://github.com/leadingedje)
+- ⚡ I recently launched two fun projects: (1) [VictorFrye.com](https://github.com/victorfrye/dotcom) and (2) [Microsoft Graveyard](https://github.com/victorfrye/microsoftgraveyard)
+- 🌱 I’m currently learning cloud infrastructure and artificial intelligence
 - ❤️‍🔥 I'm passionate about **digital transformation**, the **developer experience**, and solutions that help people **achieve more**
-- 📘 I'm actively pursuing cloud certifications for Microsoft Azure
+- 📘 I'm actively pursuing cloud certifications for **Microsoft Azure**
 - ☕ I'm **powered by coffee** and an enthusiast of home and local brews
 - 📎 I'm the **number one Clippy fan** and here to help
 - 🎮 I'm an avid **gamer** and enjoy playing **RPGs** and **indies**
@@ -28,9 +28,6 @@
     <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
         <img src="./images/powershell.svg" width="36" height="36" alt="PowerShell" />
     </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
-        <img src="./images/gnubash.svg" width="36" height="36" alt="GNU Bash" />
-    </a>
     <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
         <img src="./images/dotnet.svg" width="36" height="36" alt=".NET" />
     </a>
@@ -42,9 +39,6 @@
     </a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
         <img src="./images/nextjs.svg" width="36" height="36" alt="Next.js" />
-    </a>
-    <a href="https://webpack.js.org/" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
-        <img src="./images/webpack.svg" width="36" height="36" alt="Webpack" />
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
         <img src="./images/git.svg" width="36" height="36" alt="Git" />

@@ -1,19 +1,22 @@
-### Hello from Grand Rapids! 👋
+# Victor Frye
 
-#### I'm Vic, your friendly neighborhood developer
+👋 Hello from Grand Rapids! I'm Vic, your friendly neighborhood developer.
 
-- 🌎 I'm based in **Grand Rapids**, Michigan
-- 💼 I'm currently employed professionally as a **senior software engineer** at [Leading EDJE](https://github.com/leadingedje)
-- ⚡ I recently launched two fun projects: (1) [VictorFrye.com](https://github.com/victorfrye/dotcom) and (2) [Microsoft Graveyard](https://github.com/victorfrye/microsoftgraveyard)
-- 🌱 I’m currently learning cloud infrastructure and artificial intelligence
-- ❤️‍🔥 I'm passionate about **digital transformation**, the **developer experience**, and solutions that help people **achieve more**
-- 📘 I'm actively pursuing cloud certifications for **Microsoft Azure**
-- ☕ I'm **powered by coffee** and an enthusiast of home and local brews
-- 📎 I'm the **number one Clippy fan** and here to help
-- 🎮 I'm an avid **gamer** and enjoy playing **RPGs** and **indies**
-- 📫 Get in touch with me on [Threads](https://threads.net/@thevictorfryeadventure), [LinkedIn](https://linkedin.com/in/victorfrye), or send an [email](mailto:victorfrye@outlook.com)
+![GitHub followers](https://img.shields.io/github/followers/victorfrye?style=social) ![GitHub stars](https://img.shields.io/github/stars/victorfrye?style=social)
 
-#### Languages and Tools
+## About me
+
+- 🌎 I'm local and active in the Grand Rapids developer community
+- 💼 I'm currently employed professionally as a senior software engineer at [Leading EDJE](https://github.com/leadingedje)
+- ❤️‍🔥 I'm passionate about digital innovation, the developer experience, and solutions that help people achieve more
+- 🌱 I’m currently learning cloud native technologies and artificial intelligence
+- ☕ I'm powered by coffee and an enthusiast of home and local brews
+- 📎 I'm the number one Clippy fan and here to help
+- 🎮 I'm a gamer by night and enjoy playing epic RPGs, zany platformers, and artistic indies
+- 💬 Ask me about DevOps, Azure, .NET, GitHub, AI, or cloud native solutions
+- 📫 Get in touch with me on [Threads](https://threads.net/@thevictorfryeadventure), [BlueSky](https://bsky.app/profile/victorfrye.com), [LinkedIn](https://linkedin.com/in/victorfrye), or send an [email](mailto:victorfrye@outlook.com)
+
+## Languages and Tools
 
 <p style="align: left;">
     <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
@@ -37,9 +40,6 @@
     <a href="https://react.dev/" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
         <img src="./images/reactjs.svg" width="36" height="36" alt="React.js" />
     </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
-        <img src="./images/nextjs.svg" width="36" height="36" alt="Next.js" />
-    </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer noopener" style="text-decoration: none;">
         <img src="./images/git.svg" width="36" height="36" alt="Git" />
     </a>
@@ -60,7 +60,7 @@
     </a>
 </p>
 
-#### First Program
+## First Program
 
 My first program was a C# console application in 2017 that is found below. This was created in my Introduction to Programming course at Davenport University.
 
@@ -78,3 +78,4 @@ public class HelloWorld
 ```
 
 I have enjoyed recreating hello world programs in different languages and frameworks for myself and as a demonstration of languages I have familiarity with. Samples of these programs can be found [here](./samples/)
+

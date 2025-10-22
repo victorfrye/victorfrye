@@ -2,10 +2,7 @@
 
 👋 Hello from Grand Rapids! I'm Vic, your friendly neighborhood developer.
 
-![GitHub followers](https://img.shields.io/github/followers/victorfrye)
-![GitHub stars](https://img.shields.io/github/stars/victorfrye)
-
-## About me
+## About
 
 - 🌎 I'm born, raised, living in Grand Rapids, and passionate about the local community
 - 💼 I'm currently working professionally as a senior software engineer at [![Leading EDJE](https://img.shields.io/badge/Leading_EDJE-98C93D)](https://leadingedje.com)

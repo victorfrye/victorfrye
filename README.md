@@ -4,16 +4,17 @@
 
 ## About
 
-- 🌎 I'm born, raised, living in Grand Rapids, and passionate about the local community
-- 💼 I'm currently working professionally as a senior software engineer at [![Leading EDJE](https://img.shields.io/badge/Leading_EDJE-98C93D)](https://leadingedje.com)
-- ❤️‍🔥 I'm passionate about digital innovation, the developer experience, and solutions that help people achieve more
-- 🌱 I’m currently learning cloud native technologies and artificial intelligence
-- ☕ I'm powered by coffee and an enthusiast of home and local brews
-- 📎 I'm the number one Clippy fan and here to help
-- 🎮 I'm a gamer by night and enjoy playing epic RPGs, zany platformers, and artistic indies
-- 🏡 I'm happily married to my wife Anna, with two dogs, Maya and Gin
-- 💬 Ask me about .NET, React, Azure, GitHub, or cloud native solutions
+- 🌎 I'm born, raised, living in **Grand Rapids**, and passionate about the local community
+- 💼 I'm currently working professionally as a **senior software engineer** at [![Leading EDJE](https://img.shields.io/badge/Leading_EDJE-98C93D)](https://leadingedje.com)
+- ❤️‍🔥 I'm passionate about **digital innovation**, the **developer experience**, and solutions that help people achieve more
+- 🌱 I’m currently learning **cloud native** technologies and **artificial intelligence**
+- ☕ I'm **powered by coffee** and an enthusiast of home and local brews
+- 📎 I'm the **number one Clippy fan** and here to help
+- 🎮 I'm a **gamer** by night and enjoy playing epic RPGs, zany platformers, and artistic indies
+- 🏡 I'm happily married to my wife, **Anna**, with two dogs, **Maya** and **Gin**
+- 💬 Ask me about **.NET**, **React**, **Azure**, **GitHub**, or cloud native solutions
 - 📫 Get in touch with me at:
+
 [![victorfrye | LinkedIn](https://img.shields.io/badge/victorfrye-LinkedIn-0072B1)](https://linkedin.com/in/victorfrye)
 [![@thevictorfryeadventure | Threads](https://img.shields.io/badge/@thevictorfryeadventure-Threads-000000)](https://threads.com/@thevictorfryeadventure)
 [![victorfrye.com | BlueSky](https://img.shields.io/badge/victorfrye.com-BlueSky-1185FE)](https://bsky.app/profile/victorfrye.com)
